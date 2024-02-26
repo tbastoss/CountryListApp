@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="country_capital_label">Capital:</string>
+    <string name="country_name_and_region">%1$s, %2$s</string>
+    <string name="load_country_list_error_dialog_title">Error while loading countries</string>
+    <string name="generic_error_message">Something went wrong!</string>
+    <string name="try_again">Try again</string>
+</resources>
